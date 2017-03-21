@@ -21,6 +21,6 @@ int main()
 		system("pause");
 		cout <<"Please inpput a number:"<< endl;
                 cin >> n;
-	         cout << "your input is:" << n << endl;
+	        cout << "your input is:" << n << endl;
 	}
 }
