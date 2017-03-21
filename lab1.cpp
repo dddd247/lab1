@@ -20,12 +20,7 @@ int main()
 		}
 		system("pause");
 		cout <<"Please inpput a number:"<< endl;
-        cin >> n;
-	    cout << "your input is:" << n << endl;
+                cin >> n;
+	         cout << "your input is:" << n << endl;
 	}
-
-	system("pause");
-
-
-
 }
